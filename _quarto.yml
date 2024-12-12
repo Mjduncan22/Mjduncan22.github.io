@@ -13,7 +13,7 @@ website:
     left: "Michael Duncan 2024©"
     right: 
       - icon: linkedin
-        href: 
+        href: nolinkedin
 
   navbar:
     background: primary
