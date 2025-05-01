@@ -1,5 +1,212 @@
 [
   {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "homework/homework-02.html",
+    "href": "homework/homework-02.html",
+    "title": "Homework 2 - Predicates and Quantifiers",
+    "section": "",
+    "text": "Instructions: Complete the exercises below.\nNote: Sample solutions are provided in order to help you learn. The purpose of these exercises is not to simply turn in the answers, but to take the time and effort to learn and understand the material. You are encouraged to work the problems first, then when you are satisfied that you have the correct answer, look at the sample solution and compare it with yours."
+  },
+  {
+    "objectID": "homework/homework-02.html#sample-solutions",
+    "href": "homework/homework-02.html#sample-solutions",
+    "title": "Homework 2 - Predicates and Quantifiers",
+    "section": "Sample Solutions",
+    "text": "Sample Solutions\nNote: Sample solutions are provided in order to help you learn. The purpose of these exercises is not to simply turn in the answers, but to take the time and effort to learn and understand the material. You are encouraged to work the problems first, then when you are satisfied that you have the correct answer, look at the sample solution and compare it with yours.\n\nSample Solution 2.1\nTruth table:\n\n\n\n\n\n\n\n\n\n\n\n\\(p\\)\n\\(q\\)\n\\[p \\rightarrow q\\]\n\\[\\lnot p \\rightarrow \\lnot q\\]\n\\[q \\rightarrow p \\]\n\\[\\lnot q \\rightarrow \\lnot p\\]\n\n\n\n\nT\nT\nT\nT\nT\nT\n\n\nT\nF\nF\nT\nT\nF\n\n\nF\nT\nT\nF\nF\nT\n\n\nF\nF\nT\nT\nT\nT\n\n\n\n\nConditional and its contrapositive: \\(p \\rightarrow q \\equiv \\lnot q \\rightarrow \\lnot p\\)\nInverse and Converse: \\(\\lnot p \\rightarrow \\lnot q \\equiv q \\rightarrow p\\)\nTrue. \\(\\lnot p \\lor q\\) is logically equivalent to \\(p \\rightarrow q\\). We can show this using a truth table.\nFalse. \\(\\lnot(p \\rightarrow q)\\) is NOT the same as $ p q$. We can show this using a truth table.\nAn equivalent statement to \\(\\lnot(p \\rightarrow q)\\) is \\(\\lnot (\\lnot p \\lor q)\\), which we can simplify using De Morgan’s Laws to \\(p \\land \\lnot q\\).\n\n\n\nSample Solution 2.2\n\n\\(p \\land r\\)\nNegated: \\((\\lnot p \\lor \\lnot r)\\)\nEnglish: A rider is not older than 12 years old or is not taller than 48”.\n\\(q \\lor r\\)\nNegated: \\((\\lnot q \\land \\lnot r)\\)\nEnglish: A rider is not older than 18 years old and is not taller than 48”.\n\\(q \\land \\lnot r\\)\nNegated: \\((\\lnot q \\lor r)\\)\nEnglish: A rider is not older than 18 years old or is taller than 48”.\n\n\n\nSample Solution 2.3\n\nSomebody is older than 21.\nEveryone is older than 21.\nSomeone is not older than 21.\nNo one is older than 21.\nSomeone (or some person) is a student.\nEveryone is a student.\nThere is no student.\nThere is someone who is not a student.\nNot all people are non-students.\nNo one is a student.\n\n\n\nSample Solution 2.4\n\nAll friends are cool.\nSomeone is a friend and is cool.\nEveryone is a friend and is cool.\nSome friends are cool. (Better than ‘For some person, if that person is a friend, then that person is cool.’)\nAll students are from Nepal.\nSomeone, if he/she is a student then he/she is from Nepal. (Better than ’For some person, if that person is a student, then that student is from Nepal.)\nEveryone is a student and is from Nepal.\nSome student is from Nepal.\n\n\n\nSample Solution 2.5\n\n\\(\\forall x\\ C(x)\\)\n\\(\\forall x\\ \\lnot P(x)\\)\n\\(\\exists x\\ (F(x) \\land P(x))\\)\n\\(\\forall x\\ (F(x) \\rightarrow C(x))\\)\n\\(\\forall x\\ C(x) \\lor \\exists x\\ F(x)\\)\n\\(\\lnot \\exists x\\ C(x) \\land \\forall x\\ F(x)\\)\n\\(\\exists x\\ State(x) \\land (\\forall y\\ State(y) \\rightarrow \\lnot ShareABorder(x, y))\\)\n\\(\\exists x\\ is\\_an\\_Error(x) \\rightarrow (\\exists y\\ is\\_an\\_error\\_Message(y) \\land is\\_Displayed(y))\\)\n\\([\\forall x\\ (is\\_a\\_Program(x) \\rightarrow has\\_been\\_Scanned(x))] \\land [\\exists x\\ (is\\_a\\_Program(x) \\land has\\_a\\_Virus(x))]\\)\n\n\n\nSample Solution 2.6\n\n\ndef is_even(x):\n    return not(x % 2)\n\ndef forall(p, s):\n    for x in s:\n        if not p(x):\n            return False\n    return True\n\n\n\nSample Solution 2.7\n\ndef forsome(p, s):\n    for x in s:\n        if p(x):\n            return True\n    return False\n\n\n\nSample Solution 2.8\n\ndomain = list(range(-5, 6))\n\nprint(f'1. {forall(lambda x: x % 2, domain)}')\nprint(f'2. {forsome(lambda x: x % 2, domain)}')\nprint(f'3. {forall(lambda x: x &lt; 0, domain)}')\nprint(f'4. {forsome(lambda x: x &lt; 0, domain)}')\nprint(f'5. {forall(lambda x: x**2 - x != 1, domain)}')\nprint(f'6. {forall(lambda x: x**2 &gt; 0, domain)}')\nprint(f'7. {forsome(lambda x: x**2 &gt; 0, domain)}')\nprint(f'8. {forall(lambda x: x &lt;= x + 1, domain)}')\nprint(f'9. {forsome(lambda x: x + x == 1, domain)}')\nprint(f'10. {forsome(lambda x: x + 2 == 1, domain)}')\n\n\n\nSample Solution 2.9\n\nEvery student asks some student a question.\nEvery student asks every student a question.\nSome student asks at least one student a question.\nSome student asks every student a question.\nEvery student is asked a question by some (or at least one) student.\nSome student asks some student a question. (Another way to say the answer to 3.)\n\n\n\nSample Solution 2.10\n\n\\(\\exists x \\exists y \\neg P(x,y)\\)\n\\(\\forall x \\exists y \\neg P(x,y)\\)\n\\(\\forall x \\forall y \\exists z P(x,y,z)\\)\n\\(\\exists x \\forall y \\exists z \\neg P(x,y,z)\\)\n\\(\\forall x \\forall y (\\neg P(x,y) \\lor \\neg Q(x,y))\\)\n\\(\\exists x \\exists y \\forall z (P(x,y) \\land \\neg Q(y,z))\\)\n\n\n\nSample Solution 2.11\n\n\\(\\forall x\\ H(x) \\rightarrow V(x)\\); negated is \\(\\exists x\\ H(x) \\land \\lnot V(x)\\) = ‘Some horse does not have hooves.’\n\\(\\forall x\\ H(x) \\rightarrow \\lnot F(x)\\); negated is \\(\\exists x\\ H(x) \\land F(x) =\\) ‘Some horse can fly’.\n\\(\\forall x\\ Bat(x) \\rightarrow Blind(x)\\); negated is \\(\\exists x\\ Bat(x) \\land \\lnot Blind(x) =\\) ‘Some bat is not blind’.\n\\(\\forall x\\ B(x) \\rightarrow \\lnot D(x)\\); negated is \\(\\exists x\\ B(x) \\land D(x) =\\) ‘Some bear can dance’.\n\\(\\exists x\\ Penguin(x) \\land can\\_Swim(x) \\land can\\_Catch\\_Fish(x)\\); negated is $x Penguin(x) can_Swim(x) can_Catch_Fish(x) = $ ‘Everything is either a non-penguin or a non-swimmer or a non-fish-catcher’ (or better: ‘No penguin can swim and catch fish’).\n\n\n\nSample Solution 2.12\n\nThe product of any two non-zero integers is non-zero and conversely, if the product of two numbers is non-zero, both numbers are non-zero. True\nThere is a number that when added to any number will result in a larger number. True. Pick any positive number for x.\nThere is a number that when added to any number will result in a smaller number. True. Pick any negative number for x.\nThere is a number that when added to any number will result in that same number. True. Pick x=0.\nThere are two numbers whose sum is equal to their product. True. Pick x=0 and y=0."
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
     "title": "about me",
@@ -20,25 +227,43 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling",
-      "Project 4"
+      "Data Cleansing"
     ]
   },
   {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling",
-      "Project 2"
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
     ]
   },
   {
@@ -84,56 +309,106 @@
     "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
   },
   {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
-      "Project 5"
+      "Competition",
+      "Project 4"
     ]
   },
   {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
-      "Project 3"
+      "Competition",
+      "Project 2"
     ]
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Competition",
       "Project 1"
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack"
+      "Data Cleansing",
+      "Project 5"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
     ]
   },
   {
@@ -159,211 +434,6 @@
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
     "objectID": "Full_Stack/project1.html",
     "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
@@ -372,53 +442,6 @@
     "crumbs": [
       "Full Stack",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
     ]
   },
   {
@@ -433,45 +456,25 @@
     ]
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
     ]
   },
   {
@@ -483,6 +486,17 @@
     "crumbs": [
       "Story Telling",
       "Project 5"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
     ]
   }
 ]
